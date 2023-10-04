@@ -1,7 +1,7 @@
 """
 Case-study №1
-Developers: Kuznetsov N. 50%
-            $hishko S. 50%
+Developers: Kuznetsov N. 65%
+            $hishko S. 70%
 """
 
 from textblob import *
